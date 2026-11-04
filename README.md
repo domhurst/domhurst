@@ -26,7 +26,7 @@ If you're interested - apply below!
 ---
 ### More about Monumental
 
-[About Us](https://www.monumental.co/about) &nbsp;|&nbsp; [Our Mission](https://www.monumental.co/our-vision) &nbsp;|&nbsp; [Atrium](https://www.monumental.co/atrium) &nbsp;|&nbsp; [Monumental Substack](https://substack.com/@buildmonumental) &nbsp;
+[About Us](https://www.monumental.co/about) &nbsp;|&nbsp; [Our Mission](https://www.monumental.co/our-vision) &nbsp;|&nbsp; [Atrium](https://www.monumental.co/atrium) &nbsp;|&nbsp; [Substack](https://substack.com/@buildmonumental) &nbsp; |&nbsp; [Youtube](https://www.youtube.com/@buildmonumental) &nbsp;
 
 ---
 
