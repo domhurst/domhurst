@@ -9,7 +9,7 @@ Our mission is to make construction primarily software-defined and work towards 
 
 We’re deploying our bricklaying robots onto construction sites across the Netherlands and UK to address Europe's skilled labour shortage.
 
-We've built over 110+ residential homes, 100s of metres of canal walls, as well as commercial buildings like schools, sports stadiums, hotels with our fleet and [Atrium, OS for onsite construction](https://www.monumental.co/atrium).
+We've built over 110+ residential homes, 100s of metres of canal walls, as well as a school, sports stadium, and hotel with our fleet and [Atrium, OS for onsite construction](https://www.monumental.co/atrium).
 
 If you're interested - apply below! 
 
