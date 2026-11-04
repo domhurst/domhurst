@@ -9,9 +9,7 @@ Our mission is to make construction primarily software-defined and work towards 
 
 We’re deploying our bricklaying robots onto construction sites across the Netherlands and UK to address Europe's skilled labour shortage.
 
-[Atrium, OS for onsite construction](https://www.monumental.co/atrium), takes architectural drawings and turns them into robot-executable plans, coordinates a fleet of robots on each site, localizes robots with sub millimeter accuracy, tracks every brick, and QAs the wall as it gets built.
-
-It’s CAD, ERP, BI, robotics control, and operations in one place: planning deployments, designing buildings, executing build plans in real life and in simulation, and analyzing the results
+We've built over 110+ residential homes, 100s of metres of canal walls, as well as commercial buildings like schools, sports stadiums, hotels with our fleet and [Atrium, OS for onsite construction](https://www.monumental.co/atrium).
 
 If you're interested - apply below! 
 
@@ -19,16 +17,11 @@ If you're interested - apply below!
 
 ### We are hiring!
 
-**Software Engineer** ∘ Full Stack | Controls | Machine Vision  
-**Hardware Engineer** ∘ Mechanical | Mechatronics
-
-
-
-
+**Software** ∘ Product | Full Stack | Controls | Machine Vision  
+**Hardware** ∘ Mechanical | Mechatronics
 
 
 📧 [Email](mailto:dominic@monumental.co) or [Apply on our jobs page](https://www.monumental.co/jobs)
-
 
 ---
 ### More about Monumental
